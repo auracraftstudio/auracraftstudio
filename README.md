@@ -1,55 +1,34 @@
-<!-- AuraCraft Studio — GitHub Profile README -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/auracraftstudio/auracraftstudio/main/assets/banner.svg" alt="AuraCraft Studio — Create · Animate · Broadcast" width="100%" />
+</p>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/auracraftstudio/auracraftstudio/main/assets/auracraft-banner.svg" alt="AuraCraft Studio — Create, Animate, Speak, Broadcast" width="100%" />
-
-# ✨ AuraCraft Studio
-
-### Create • Animate • Speak • Broadcast
-
-**A creative workspace for bringing digital characters and stories to life.**
-
-[![Open Studio](https://img.shields.io/badge/Launch-AuraCraft%20Studio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://auracraft-studio.vercel.app)
-[![Main Repository](https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/auracraftstudio/AuraCraft-Studio)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square&logo=ai&logoColor=white" alt="AI" />
+  
+</p>
 
 ---
 
-## About the project
+<p align="center">
+  <strong>A browser-based creative studio for 3D avatar creation, voice narration, AI video generation, and live broadcasting.</strong>
+</p>
 
-AuraCraft Studio is a browser-based creative platform bringing avatar experiences, voice narration, video creation, and live broadcasting workflows together.
-
-## What we're building
-
-| Experience | What it does |
-|---|---|
-| **3D Avatars & VRM** | Bring expressive 3D characters into the browser |
-| **Voice Narration** | Add spoken narration to creative workflows |
-| **Video Studio** | Build and prepare video content |
-| **Live & OBS Workflows** | Connect creative output with broadcasting workflows |
-
-## Technology
-
-React · Vite · TypeScript · Three.js · `@pixiv/three-vrm` · FastAPI · Python · Cloudflare Workers · Neon PostgreSQL
-
-## Explore
-
-- **Live application:** https://auracraft-studio.vercel.app
-- **Main source code:** https://github.com/auracraftstudio/AuraCraft-Studio
-- **Project hub:** https://github.com/auracraftstudio/aurauraftstudio
-
-## Project status
-
-AuraCraft Studio is actively evolving. Features, integrations, and deployment readiness may change as development progresses. Check the main repository for the current implementation and setup instructions.
+<p align="center">
+  3D avatars · voice · video · live broadcasting
+</p>
 
 ---
 
-<div align="center">
-
-**Build Your Creative World.**
-
-<sub>Designed and developed with curiosity, creativity, and open technology.</sub>
-
-</div>
+<p align="center">
+  <a href="https://auracraft-studio.vercel.app">
+    <img src="https://img.shields.io/badge/Website-Live-D97706?style=for-the-badge" alt="Website" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/auracraftstudio/AuraCraft-Studio">
+    <img src="https://img.shields.io/badge/Repository-GitHub-181717?style=for-the-badge&logo=github" alt="Repository" />
+  </a>
+</p>
