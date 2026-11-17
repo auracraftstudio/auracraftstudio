@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">AuraCraft Studio — Create, Animate, Speak, Broadcast</title>
+  <desc id="desc">A futuristic deep-space banner with a glowing orbital A symbol and the AuraCraft Studio brand.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b24"/><stop offset=".55" stop-color="#10194a"/><stop offset="1" stop-color="#240d49"/></linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#4f46e5" stop-opacity=".55"/><stop offset="1" stop-color="#4f46e5" stop-opacity="0"/></radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="16"/></filter>
+  </defs>
+  <rect width="1600" height="500" rx="28" fill="url(#bg)"/>
+  <circle cx="1260" cy="90" r="300" fill="url(#glow)"/>
+  <circle cx="250" cy="430" r="260" fill="url(#glow)"/>
+  <g fill="#dbeafe" opacity=".8">
+    <circle cx="95" cy="74" r="2"/><circle cx="220" cy="155" r="1.5"/><circle cx="390" cy="70" r="2"/><circle cx="560" cy="390" r="1.5"/><circle cx="820" cy="85" r="2"/><circle cx="1050" cy="410" r="1.5"/><circle cx="1390" cy="150" r="2"/><circle cx="1510" cy="360" r="1.5"/>
+  </g>
+  <path d="M70 365 C300 160 470 510 720 280 S1180 60 1510 205" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".55"/>
+  <path d="M60 405 C310 190 510 540 760 315 S1190 110 1530 245" fill="none" stroke="#22d3ee" stroke-width="1" opacity=".3"/>
+  <g transform="translate(125 115)">
+    <circle cx="105" cy="105" r="82" fill="none" stroke="url(#neon)" stroke-width="5" opacity=".9"/>
+    <path d="M45 155 L105 34 L166 155 M73 110 H138" fill="none" stroke="url(#neon)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="105" cy="105" rx="125" ry="38" transform="rotate(-22 105 105)" fill="none" stroke="#22d3ee" stroke-width="3"/>
+    <circle cx="217" cy="58" r="7" fill="#c084fc"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="430" y="205" fill="#f8fafc" font-size="78" font-weight="800" letter-spacing="-3">AuraCraft <tspan fill="url(#neon)">Studio</tspan></text>
+    <text x="438" y="270" fill="#c7d2fe" font-size="30" letter-spacing="7">CREATE  •  ANIMATE  •  SPEAK  •  BROADCAST</text>
+    <path d="M440 305 H1450" stroke="url(#neon)" stroke-width="2" opacity=".75"/>
+    <g fill="#e0e7ff" font-size="24" font-weight="600">
+      <text x="440" y="365">3D AVATARS &amp; VRM</text><text x="720" y="365">VOICE NARRATION</text><text x="1010" y="365">VIDEO CREATION</text><text x="1280" y="365">LIVE &amp; OBS</text>
+    </g>
+    <text x="440" y="430" fill="#67e8f9" font-size="25" font-style="italic">Build Your Creative World.</text>
+  </g>
+</svg>
