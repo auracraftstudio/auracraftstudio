@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/auracraftstudio/auracraftstudio/main/assets/auracraft-banner.svg" alt="AuraCraft Studio — Create, Animate, Speak, Broadcast" width="100%" />
+
 # ✨ AuraCraft Studio
 
 ### Create • Animate • Speak • Broadcast
